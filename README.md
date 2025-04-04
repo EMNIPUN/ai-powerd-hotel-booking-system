@@ -2,7 +2,7 @@
 
 📌 **Backend:** [GitHub Repository](https://github.com/EMNIPUN/ai-powerd-hotel-booking-system-backend)  
 📌 **Frontend:** [GitHub Repository](https://github.com/EMNIPUN/ai-powerd-hotel-booking-system-frontend)  
-🌍 **Deployed Project:** [Live Demo](https://ai-powerd-hotel-booking-system-frontend.vercel.app/){:target="_blank"}
+🌍 **Deployed Project:** [Live Demo](https://ai-powerd-hotel-booking-system-frontend.vercel.app/)
 
 
 ## 🎯 Overview  

@@ -2,7 +2,8 @@
 
 📌 **Backend:** [GitHub Repository](https://github.com/EMNIPUN/ai-powerd-hotel-booking-system-backend)  
 📌 **Frontend:** [GitHub Repository](https://github.com/EMNIPUN/ai-powerd-hotel-booking-system-frontend)  
-🌍 **Deployed Project:** [Live Demo](https://ai-powerd-hotel-booking-system-frontend.vercel.app/)  
+🌍 **Deployed Project:** [Live Demo](https://ai-powerd-hotel-booking-system-frontend.vercel.app/){:target="_blank"}
+
 
 ## 🎯 Overview  
 The **AI-Powered Smart Hotel Finder & Booking System** is an intelligent web application that enhances the hotel search and booking experience. This system leverages artificial intelligence to provide **personalized hotel recommendations** based on user preferences, travel experiences, and real-time availability.  

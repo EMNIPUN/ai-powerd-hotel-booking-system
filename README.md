@@ -18,7 +18,7 @@ The **AI-Powered Smart Hotel Finder & Booking System** is an intelligent web app
 - ⚛️ **React.js**  
 - 🎨 **Tailwind CSS**  
 - 🎛️ **ShadCN UI**  
-- 🔄 **Redux**  
+- 🔄 **Redux + RTK query**  
 - 🛣 **React Router**  
 - 📝 **React Hook Form**  
 - ✨ **Magic UI**  

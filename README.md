@@ -23,6 +23,7 @@ The **AI-Powered Smart Hotel Finder & Booking System** is an intelligent web app
 - ✨ **Magic UI**  
 
 ### 🏗 Backend  
+- 🟦 **TypeScript**  
 - 🟩 **Node.js**  
 - 🚀 **Express.js**  
 - 🍃 **MongoDB**  
@@ -36,9 +37,9 @@ The **AI-Powered Smart Hotel Finder & Booking System** is an intelligent web app
 - 📊 **Pandas** (for data handling in Python)  
 
 ### 🛠 Additional Tools & Services  
-- 🟦 **TypeScript**  
+
 - 🐙 **GitHub & GitHub Actions**  
 - ⚡ **Bolt**  
 - 💳 **Stripe** (Payment Integration)  
 
-This project is designed to provide an intuitive, AI-enhanced hotel booking experience while leveraging modern web technologies.  
+This project will provide an intuitive, AI-enhanced hotel booking experience while leveraging modern web technologies.  
